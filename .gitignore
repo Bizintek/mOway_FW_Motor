@@ -1,0 +1,25 @@
+#Ignore List for Microchips MPLab 8 IDE
+
+mOway_FW_Motor/build/*
+mOway_FW_Motor/debug/*
+mOway_FW_Motor/dist/*
+*.i
+*.err
+*.ini
+*.mcs
+*.p1
+*.cof
+*.hex
+*.sym
+*.map
+*.hxl
+*.lst
+*.rlf
+*.pre
+*.obj
+*.lst
+*.rlf
+*.sdb
+*.mcs
+*.as
+*.o
